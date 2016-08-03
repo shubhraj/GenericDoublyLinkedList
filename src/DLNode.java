@@ -13,6 +13,7 @@ public class DLNode<T> {
         prevNode = null;
     }
 
+
     public T getData() {
         return data;
     }
