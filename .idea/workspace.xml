@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa590c1e-de49-4d87-ac38-16a787432e15" name="Default" comment="DLNode Created">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DLList.java" />
+    <list default="true" id="aa590c1e-de49-4d87-ac38-16a787432e15" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DLNode.java" afterPath="$PROJECT_DIR$/src/DLNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DLList.java" afterPath="$PROJECT_DIR$/src/DLList.java" />
     </list>
     <ignored path="GenericDoublyLinkedList.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DLNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DLNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DLNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -48,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DLList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DLList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DLList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,8 +78,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Node.java" />
-        <option value="$PROJECT_DIR$/src/DLList.java" />
         <option value="$PROJECT_DIR$/src/DLNode.java" />
+        <option value="$PROJECT_DIR$/src/DLList.java" />
       </list>
     </option>
   </component>
@@ -427,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470199048410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Getter Setter for DLNode Created&#10;">
+      <created>1470199233656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470199233656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -473,21 +479,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DLNode Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="DLNode Created" />
+    <MESSAGE value="Getter Setter for DLNode Created&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getter Setter for DLNode Created&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DLList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DLNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -506,6 +505,14 @@
             <element signature="e#652#653#0" expanded="true" />
             <element signature="e#692#693#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
